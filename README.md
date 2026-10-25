@@ -365,7 +365,7 @@ Antigravity has native MCP support through its **Agent Manager** panel.
 | **NPM** | Search packages, fetch dependency info | `npx -y mcp-npm-server` | [GitHub](https://github.com/community/mcp-npm) |
 | **ESLint** | Run linting; find and fix code style errors | `npx -y mcp-eslint` | [GitHub](https://github.com/eslint/mcp) |
 | **TypeScript** | Type checking and error finding via TS compiler API | `npx -y mcp-typescript` | [GitHub](https://github.com/community/mcp-ts) |
-| **Agent QA** | Natural-language web and mobile QA with persistent execution memory and self-healing test flows | `npx -y agent-qa@0.1.21 mcp` | [GitHub](https://github.com/vostride/agent-qa) |
+| **agent-qa** | Natural-language web, Android and iOS QA with persistent memory and self-healing test flows; Node.js 24+; FSL-1.1-ALv2. | `npx -y agent-qa@0.1.21 mcp` | [GitHub](https://github.com/vostride/agent-qa) |
 | **Playwright** | Browser automation, screenshots, UI testing | `npx -y @microsoft/mcp-server-playwright` | [GitHub](https://github.com/microsoft/mcp-server-playwright) |
 | **Puppeteer** | Web scraping, browser automation, screenshots | `npx -y @modelcontextprotocol/server-puppeteer` | [GitHub](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) |
 | **Context7** | Live, version-accurate docs for Next.js, Tailwind, shadcn | `npx -y @upstash/context7-mcp@latest` | [GitHub](https://github.com/upstash/context7) |
@@ -716,3 +716,8 @@ This directory is released under the **MIT License** — use it freely, contribu
 *Connecting your AI tools to the world, one MCP server at a time.*
 
 </div>
+---
+
+## 👤 Author
+
+**Built by Girish Lade** — [https://ladestack.in](https://ladestack.in)
